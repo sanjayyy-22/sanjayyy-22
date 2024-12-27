@@ -57,8 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayyy-22&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
-## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayyy-22&theme=github-dark&hide_border=true" />
 
 ## 🌟 Current Focus
 ```yaml
